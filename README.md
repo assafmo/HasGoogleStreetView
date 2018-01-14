@@ -1,7 +1,7 @@
 # HasGoogleStreetView
 Check if GPS coordinates has google street view
 
-# Install 
+# Installation 
 ```bash
 curl -sSLf https://raw.githubusercontent.com/assafmo/HasGoogleStreetView/master/has_street_view.sh | sudo tee /usr/local/bin/has_street_view > /dev/null
 sudo chmod +x /usr/local/bin/has_street_view
