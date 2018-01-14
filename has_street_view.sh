@@ -10,7 +10,7 @@ grep -o "Search returned no images")
 
 if [[ -z "$ans" ]]; then
   echo true
-	exit 0
+  exit 0
 fi
 
 echo false
